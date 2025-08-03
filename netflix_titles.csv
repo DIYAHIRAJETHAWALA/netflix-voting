@@ -1,0 +1,5 @@
+show_id,title,type,director,country,release_year,rating,listed_in
+s1,Extraction,Movie,Sam Hargrave,India,2020,9,"Action, Thriller"
+s2,Stranger Things,Series,The Duffer Brothers,United States,2016,9.5,"Sci-Fi, Drama"
+s3,The Gray Man,Movie,Anthony Russo,United States,2022,8.4,"Action, Thriller"
+s4,Delhi Crime,Series,Richie Mehta,India,2019,7.9,"Crime, Drama"
